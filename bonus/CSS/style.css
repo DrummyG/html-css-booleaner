@@ -15,6 +15,7 @@ header{
     width: 20%;
     position: relative;
     top: 40%;
+    margin-left: 7%;
 }
 
 h1{
@@ -82,3 +83,9 @@ td{
 .bottomtwo{
     background-image: url(../img/graph.jpg);
 }
+
+main, footer{
+    max-width: 1200px;
+    margin: auto;
+    padding: 10px;
+  }
